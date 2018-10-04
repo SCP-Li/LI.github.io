@@ -1,4 +1,4 @@
-## Welcome to LI Pages
+## Welcome to LI Pages(。・∀・)ノ
 
 You can use the [editor on GitHub](https://github.com/SCP-Li/LI.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
